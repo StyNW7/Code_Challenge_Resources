@@ -1,3 +1,5 @@
+// Link: https://coddy.tech/challenges/forest_stroll_js
+
 function forestStroll(n) {
     
     let ans = "";

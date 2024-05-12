@@ -1,4 +1,4 @@
-Link: https://leetcode.com/problems/maximize-happiness-of-selected-children/description/
+// Link: https://leetcode.com/problems/maximize-happiness-of-selected-children/description/
 
 class Solution {
 public:
